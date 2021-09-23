@@ -1,0 +1,24 @@
+{
+  "name": "roux-academy",
+  "version": "1.0.0",
+  "description": "Exercise files for my course Building a Website with Node.js and Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Daniel Khan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davsav16/Express-Node-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davsav16/Express-Node-website/issues"
+  },
+  "homepage": "https://github.com/davsav16/Express-Node-website#readme"
+}
